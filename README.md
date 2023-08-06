@@ -2,7 +2,7 @@
 Shows a preview of images linked in destiny.gg
 
 ### Install
-[link](https://github.com/NickMarcha/DGG-IPA/raw/main/DGGIPA.user.js)
+[DGGIPA.user.js](https://github.com/NickMarcha/DGG-IPA/raw/main/DGGIPA.user.js)
 
 ## Making a repository for what seems to be an otherwise dead addon after repeated attempts to contact the author.
 
